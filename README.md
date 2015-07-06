@@ -1,5 +1,9 @@
-# Component Specification Process and Goals
+# Common Component Specification Process and Goals
 
+<h3>Documents:</h3>
+<ul>  
+  <li><a href="https://github.com/progress/CCS/blob/master/Common Component Specification Project Charter_May 22 2015.pdf">Project Charter</a></li>
+</ul>
 <h3>Deliverables:</h3>
 <ul>
   <li>High level OERA diagram</li>
