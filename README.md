@@ -3,6 +3,7 @@
 <h3>Documents:</h3>
 <ul>  
   <li><a href="https://github.com/progress/CCS/blob/master/Common Component Specification Project Charter_May 22 2015.pdf">Project Charter</a></li>
+    <li><a href="https://github.com/progress/CCS/blob/master/SteeringCommittee.md">Steering Committee</a></li>
 </ul>
 <h3>Deliverables:</h3>
 <ul>
