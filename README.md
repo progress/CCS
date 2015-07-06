@@ -5,6 +5,8 @@
   <li><a href="https://github.com/progress/CCS/blob/master/Common Component Specification Project Charter_May 22 2015.pdf">Project Charter</a></li>
     <li><a href="https://github.com/progress/CCS/blob/master/SteeringCommittee.md">Steering Committee</a></li>
 </ul>
+
+</br>
 <h3>Deliverables:</h3>
 <ul>
   <li>High level OERA diagram</li>
@@ -13,6 +15,7 @@
   <li>Submit for community review</li>
   <li>Update OERA on communities</li>
 </ul>
+
 </br>
 <h3>Non-goals:</h3>
 <ul>
