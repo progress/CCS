@@ -10,6 +10,9 @@
 </ul>
 
 </br>
+<h3>Submit a Proposal</h3>
+<a href="https://github.com/progress/CCS/blob/master/SteeringCommittee.md">Click here</a>
+</br>
 <h3>Deliverables:</h3>
 <ul>
   <li>High level OERA diagram</li>
