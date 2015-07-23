@@ -11,7 +11,7 @@
 
 </br>
 <h3>Submit a Proposal</h3>
-<a href="https://github.com/progress/CCS/blob/master/SteeringCommittee.md">Click here</a>
+ Use the following <a href="https://github.com/progress/CCS/blob/master/CCSProposal_1%200_Template.pdf">template</a> and send your proposal to tkincaid@progress.com.
 </br>
 <h3>Deliverables:</h3>
 <ul>
