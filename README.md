@@ -11,7 +11,7 @@
 
 </br>
 <h3>Submit a Proposal</h3>
- Use the following <a href="https://github.com/progress/CCS/blob/master/CCSProposal_1%200_Template.pdf">template</a> and send your proposal to tkincaid@progress.com.
+ Use the following <a href="https://github.com/progress/CCS/blob/master/CCSProposal_1%200_Template.pdf">template</a> and send your proposal to <a href="mailto:ccs-submissions@progress.com">CCS Submissions</a>.
 </br>
  You can download a word version of this document <a href="https://github.com/progress/CCS/zipball/doc-files">here.</a>
  
