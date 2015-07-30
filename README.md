@@ -11,9 +11,8 @@
 
 </br>
 <h3>Active Specifications</h3>
-Colons can be used to align columns.
 
-| Spec Title    | Status        | Submitted By |
+| Spec Title    | Status      | Submitted By |
 | ------------- |-------------| -----|
 | Architectural Overview      | Forming Project Team | Shelley B. Chase |
 | Business Entity             | Proposal Submitted | Mike Fechner |
