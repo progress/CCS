@@ -17,4 +17,4 @@ Non-voting/Advisory Members:
   <li>Bob Palumbo - Progress</li>
 </ul>
 
-You can reach the steering committee at 
+You can reach the steering committee at <a href="mailto:ccs-submissions@progress.com">CCS Submissions.</a>
