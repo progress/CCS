@@ -14,10 +14,10 @@
 
 | Spec Title    | Status      | Submitted By |
 | ------------- |-------------| -----|
-| Architectural Overview      | Forming Project Team | Shelley B. Chase |
-| Business Entity             | Proposal Submitted | Mike Fechner |
-
-
+| Architectural Overview      | Spec In Progress | Shelley B. Chase |
+| Business Entity             | Spec In Progress | Mike Fechner |
+| Cloud Data Object           | Proposal Expected | Peter Judge |
+| Authentication              | Proposal Expected | Mike Jacobs |
 </br>
 <h3>Submit a Proposal</h3>
  Use the following <a href="https://github.com/progress/CCS/blob/master/CCSProposal_1%200_Template.pdf">template</a> and send your proposal to <a href="mailto:ccs-submissions@progress.com">CCS Submissions</a>.
