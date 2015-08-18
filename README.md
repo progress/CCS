@@ -2,6 +2,7 @@
 
 <h3>Documents:</h3>
 <ul>  
+  <li><a href="https://community.progress.com/products/directions/common_component/default.aspx">CCS on Progress Communities</a></li>
   <li><a href="https://community.progress.com/products/directions/common_component/p/commoncomponentcharter.aspx">Project Charter</a></li>
   <li><a href="https://community.progress.com/products/directions/common_component/p/nondisclosureagreement.aspx">Non-disclosure Agreement</a></li>
   <li><a href="https://community.progress.com/products/directions/common_component/p/contributorlicenseagreement.aspx">Contributor License Agreement</a></li>
