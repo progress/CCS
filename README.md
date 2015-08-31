@@ -14,7 +14,7 @@
 <h3>Active Specifications</h3>
 
 | Spec Title    | Status      | Submitted By | CCS Version |
-| ------------- |-------------| -----|
+| ------------- |-------------| -----|-----|
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-Umbrella-1%200.pdf">Architectural Overview</a>     | Spec In Progress | Shelley B. Chase | V1 |
 | Business Entity             | Spec In Progress | Mike Fechner | V1 |
 | Cloud Data Object           | Proposal Accepted | Peter Judge | V1 |
