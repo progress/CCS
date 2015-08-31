@@ -13,15 +13,17 @@
 </br>
 <h3>Active Specifications</h3>
 
-| Spec Title    | Status      | Submitted By |
+| Spec Title    | Status      | Submitted By | CCS Version |
 | ------------- |-------------| -----|
-| Architectural Overview      | Spec In Progress | Shelley B. Chase |
-| Business Entity             | Spec In Progress | Mike Fechner |
-| Cloud Data Object           | Proposal Expected | Peter Judge |
-| Authentication              | Proposal Expected | Mike Jacobs |
+| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCSProposal_1%200_Template.pdf">Architectural Overview</a>     | Spec In Progress | Shelley B. Chase | V1 |
+| Business Entity             | Spec In Progress | Mike Fechner | V1 |
+| Cloud Data Object           | Proposal Accepted | Peter Judge | V1 |
+| loud Data Service Catalog | Proposal submitted| Peter Judge | V1 |
+| Authentication - Security Token | Proposal Accepted | Mike Jacobs | V1 |
+| Configuration Manager | Proposal Accepted | Mike Jacobs | V1 |
 </br>
 <h3>Submit a Proposal</h3>
- Use the following <a href="https://github.com/progress/CCS/blob/master/CCSProposal_1%200_Template.pdf">template</a> and send your proposal to <a href="mailto:ccs-submissions@progress.com">CCS Submissions</a>.
+ Use the following <a href="https://github.com/progress/CCS/blob/master/Proposals/CCSProposal_1%200_Template.pdf">template</a> and send your proposal to <a href="mailto:ccs-submissions@progress.com">CCS Submissions</a>.
 </br>
  You can download a word version of this document <a href="https://github.com/progress/CCS/zipball/doc-files">here.</a>
  
