@@ -4,7 +4,6 @@
 <ul>  
   <li><a href="https://community.progress.com/products/directions/common_component/default.aspx">CCS on Progress Communities</a></li>
   <li><a href="https://community.progress.com/products/directions/common_component/p/commoncomponentcharter.aspx">Project Charter</a></li>
-  <li><a href="https://community.progress.com/products/directions/common_component/p/nondisclosureagreement.aspx">Non-disclosure Agreement</a></li>
   <li><a href="https://community.progress.com/products/directions/common_component/p/contributorlicenseagreement.aspx">Contributor License Agreement</a></li>
   <li><a href="https://community.progress.com/products/directions/common_component/p/releaselicenseagreement.aspx">Release License Agreement</a></li>
     <li><a href="https://github.com/progress/CCS/blob/master/SteeringCommittee.md">Steering Committee</a></li>
@@ -15,7 +14,7 @@
 
 | Spec Title    | Status      | Submitted By | CCS Version |
 | ------------- |-------------| -----|-----|
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-Umbrella-1%200.pdf">Architectural Overview</a>     | Spec In Progress | Shelley B. Chase | V1 |
+| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-Umbrella-1%200.pdf">Architectural Overview</a>     | Draft in Community Review | Shelley B. Chase | V1 |
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-Umbrella-1%200.pdf">Business Entity</a>              | Spec In Progress | Mike Fechner | V1 |
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CDO_proposal.pdf">Cloud Data Object</a>            | Proposal Accepted | Peter Judge | V1 |
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CDS_Catalog_proposal.pdf">Cloud Data Service Catalog</a>  | Proposal submitted| Peter Judge | V1 |
