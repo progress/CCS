@@ -16,7 +16,9 @@
 | ------------- |-------------| -----|-----|
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-Umbrella-1%200.pdf">Architectural Overview</a>     | Spec Published | Shelley B. Chase | V1 |
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-BusinessEntity-1%200.pdf">Business Entity</a>              | Spec In Progress | Mike Fechner | V1 |
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-ServiceManager-V1%201.pdf">Service Manager</a>              | Spec In Progress | Mike Fechner | V1 |
+| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-ServiceManager-V1%201.pdf">Service Manager</a>              | Spec In Progress | Dr. Ganesh Iyer | V1 |
+| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-StartupManager-V1%201.pdf">Startup Manager</a>              | Spec In Progress | Dr. Ganesh Iyer | V1 |
+| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-SessionManager-V1%201.pdf">Session Manager</a>              | Spec In Progress | Dr. Ganesh Iyer | V1 |
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CDO_proposal.pdf">Cloud Data Object</a>            | Proposal Accepted - Waiting to form team | Peter Judge | V1 |
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CDO_Protocol_proposal.pdf">Cloud Data Object Protocol</a>            | Proposal Accepted - Waiting to form team | Peter Judge | V1 |
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CDS_Catalog_proposal.pdf">Cloud Data Service Catalog</a>  | Proposal submitted| Peter Judge | V1 |
