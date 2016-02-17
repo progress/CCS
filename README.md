@@ -7,6 +7,7 @@
   <li><a href="https://community.progress.com/products/directions/common_component/p/contributorlicenseagreement.aspx">Contributor License Agreement</a></li>
   <li><a href="https://community.progress.com/products/directions/common_component/p/releaselicenseagreement.aspx">Release License Agreement</a></li>
     <li><a href="https://github.com/progress/CCS/blob/master/SteeringCommittee.md">Steering Committee</a></li>
+    <li><a href="https://github.com/progress/CCS/blob/master/V1Specs.md">CCS Version 1 Specs</a></li>
 </ul>
 
 </br>
