@@ -1,0 +1,10 @@
+# Common Component Specifications
+
+The CCS Specification: OpenEdge Application Architecture builds on the Progress® OpenEdge® Reference Architecture (OERA) blueprint and defines a prescriptive architecture to use when building OpenEdge Enterprise Business Applications. The architectural specification defines the components of an OERA compliant architecture, the responsibilities of each component, and the communication protocol between components. Separate CCS specifications provide details of various business application components. 
+
+The CCS Specification: Security Token Service (STS) defines a standardized component interface and specification to satisfy modern business application authentication, login policy enforcement and enables inter-operability across multiple technology platforms in a distributed computing architecture. The specification will address various business applications deployment architectures ranging from client/server to Federated authenticator service.
+
+The CCS Specification: Service Manager defines a standard API for managing the life cycle of common infrastructure and application components like authorization, configuration and sessions. It acts as the gateway for discovery of appropriate business components for service requests. The Service Manager will enable components to be "hot-swapped" for new or alternate versions. This reduces the impact changes have on an application and reduces the cost of modifying or extending the application.
+
+The CCS Specification: Business Entity is a key component of any business application that implements application logic, data validation and processing. It defines key requirements, behavior and interactions of a Business Entity. Several Progress Software products like the Telerik Platform, Java Script Data Objects, Telerik Kendo UI, Progress Rollbase, and Progress DataDirect OpenAccess integrate with Business Entities and standardization of a Business Entity will provide much needed portability across different frameworks.
+
