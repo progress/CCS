@@ -13,7 +13,7 @@
 </br>
 <h3>Active Specifications</h3>
 
-| Spec Title    | Status      | Submitted By | CCS Version |
+| Spec Proposal    | Status      | Submitted By | CCS Version |
 | ------------- |-------------| -----|-----|
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-Umbrella-1%200.pdf">Architectural Overview</a>     | <a href="https://github.com/progress/CCS/blob/master/Specs/CCSSpec-ARCH1_0.pdf">Spec Published</a> | Shelley B. Chase | V1 |
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-BusinessEntity-1%200.pdf">Business Entity</a>              | Spec In Progress | Mike Fechner | V1 |
