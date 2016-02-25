@@ -24,7 +24,7 @@
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CDO_Protocol_proposal.pdf">Cloud Data Object Protocol</a>            | Proposal Accepted - Waiting to form team | Peter Judge | V1 |
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CDS_Catalog_proposal.pdf">Cloud Data Service Catalog</a>  | Proposal submitted| Peter Judge | V1 |
 | <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS%20Proposal_STS-1%200.pdf">Authentication - Security Token</a>  | Proposal Accepted - Waiting to form team | Mike Jacobs | V1 |
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-ConfigMgr-1.0.pdf">Configuration Manager</a>  | Proposal Accepted - Waiting to form team | Mike Jacobs | V1 |
+| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-ConfigMgr-1.0.pdf">Property Manager</a>  | Proposal Accepted - Waiting to form team | Mike Jacobs | V1 |
 </br>
 <h3>Submit a Proposal</h3>
  Use the following <a href="https://github.com/progress/CCS/blob/master/Proposals/CCSProposal_1%200_Template.pdf">template</a> and send your proposal to <a href="mailto:ccs-submissions@progress.com">CCS Submissions</a>.
