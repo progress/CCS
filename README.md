@@ -1,49 +1,41 @@
 # Common Component Specification Process and Goals
 
-<h3>Documents:</h3>
-<ul>  
-  <li><a href="https://community.progress.com/products/directions/common_component/default.aspx">CCS on Progress Communities</a></li>
-  <li><a href="https://community.progress.com/products/directions/common_component/p/commoncomponentcharter.aspx">Project Charter</a></li>
-  <li><a href="https://community.progress.com/products/directions/common_component/p/contributorlicenseagreement.aspx">Contributor License Agreement</a></li>
-  <li><a href="https://community.progress.com/products/directions/common_component/p/releaselicenseagreement.aspx">Release License Agreement</a></li>
-    <li><a href="https://github.com/progress/CCS/blob/master/SteeringCommittee.md">Steering Committee</a></li>
-    <li><a href="https://github.com/progress/CCS/blob/master/V1Specs.md">CCS Version 1 Specs</a></li>
-</ul>
+### Documents
+- [CCS on Progress Communities](https://community.progress.com/products/directions/common_component/default.aspx)
+- [Project Charter](https://community.progress.com/products/directions/common_component/p/commoncomponentcharter.aspx) 
+- [Contributor License Agreement](https://community.progress.com/products/directions/common_component/p/contributorlicenseagreement.aspx) 
+- [Release License Agreement](https://community.progress.com/products/directions/common_component/p/releaselicenseagreement.aspx)
+- [Steering Committee](https://github.com/progress/CCS/blob/master/SteeringCommittee.md)
+- [CCS Version 1 Specs](https://github.com/progress/CCS/blob/master/V1Specs.md) 
 
-</br>
-<h3>Active Specifications</h3>
+### Active Specifications
 
-| Spec Proposal    | Status      | Submitted By | CCS Version |
+| Spec Proposal    | Status      | Submitted By | Version |
 | ------------- |-------------| -----|-----|
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-Umbrella-1%200.pdf">Architectural Overview</a>     | <a href="https://github.com/progress/CCS/blob/master/Specs/CCSSpec-ARCH1_0.pdf">Spec Published</a> | Shelley B. Chase | V1 |
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-BusinessEntity-1%200.pdf">Business Entity</a>              | Spec In Progress | Mike Fechner | V1 |
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-ServiceManager-V1%201.pdf">Service Manager</a>              | Spec In Progress | Dr. Ganesh Iyer | V1 |
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-StartupManager-V1%201.pdf">Startup Manager</a>              | Spec In Progress | Dr. Ganesh Iyer | V1 |
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-SessionManager-V1%201.pdf">Session Manager</a>              | Spec In Progress | Dr. Ganesh Iyer | V1 |
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CDO_proposal.pdf">Cloud Data Object</a>            | Proposal Accepted - Waiting to form team | Peter Judge | V1 |
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CDO_Protocol_proposal.pdf">Cloud Data Object Protocol</a>            | Proposal Accepted - Waiting to form team | Peter Judge | V1 |
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CDS_Catalog_proposal.pdf">Cloud Data Service Catalog</a>  | Proposal submitted| Peter Judge | V1 |
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS%20Proposal_STS-1%200.pdf">Authentication - Security Token</a>  | Proposal Accepted - Waiting to form team | Mike Jacobs | V1 |
-| <a href="https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-ConfigMgr-1.0.pdf">Property Manager</a>  | Proposal Accepted - Waiting to form team | Mike Jacobs | V1 |
-</br>
-<h3>Submit a Proposal</h3>
- Use the following <a href="https://github.com/progress/CCS/blob/master/Proposals/CCSProposal_1%200_Template.pdf">template</a> and send your proposal to <a href="mailto:ccs-submissions@progress.com">CCS Submissions</a>.
-</br>
- You can download a word version of this document <a href="https://github.com/progress/CCS/zipball/doc-files">here.</a>
- 
-</br>
-<h3>Deliverables:</h3>
-<ul>
-  <li>High level OERA diagram</li>
-  <li>Set of standards documents for defined OERA components</li>
-  <li>Interdependencies only, no prescriptive external component integration</li>
-  <li>Submit for community review</li>
-  <li>Update OERA on communities</li>
-</ul>
+| [Architectural Overview](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-Umbrella-1%200.pdf) | [Spec Published](https://github.com/progress/CCS/blob/master/Specs/CCSSpec-ARCH1_0.pdf) | [Shelley B. Chase](@sbschase) | V1 |
+| [Business Entity](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-BusinessEntity-1%200.pdf) | Spec Published | [Mike Fechner](@mikefechner) | V1 |
+| [Service Manager](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-ServiceManager-V1%201.pdf) | Community Review | [Peter Judge](@PeterJudge-PSC) | V1 |
+| [Startup Manager](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-StartupManager-V1%201.pdf) | Community Review | [Dr. Ganesh Iyer](@ganeshn9) | V1 |
+|[Session Manager](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-SessionManager-V1%201.pdf) | Community Review | [Dr. Ganesh Iyer](@ganeshn9) | V1 |
+|[Cloud Data Object](https://github.com/progress/CCS/blob/master/Proposals/V1/CDO_proposal.pdf) | Proposal Accepted - Waiting to form team | [Peter Judge](@PeterJudge-PSC) | V1 |
+|[Cloud Data Object Protocol](https://github.com/progress/CCS/blob/master/Proposals/V1/CDO_Protocol_proposal.pdf) | Proposal Accepted - Waiting to form team | [Peter Judge](@PeterJudge-PSC) | V1 |
+| [Cloud Data Service Catalog](https://github.com/progress/CCS/blob/master/Proposals/V1/CDS_Catalog_proposal.pdf) | Proposal submitted| [Peter Judge](@PeterJudge-PSC) | V1 |
+| [Authentication - Security Token Service](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS%20Proposal_STS-1%200.pdf) | Proposal Accepted - Waiting to form team | Mike Jacobs | V1 |
+| [Property Manager](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-ConfigMgr-1.0.pdf) | Proposal Accepted - Waiting to form team | Mike Jacobs | V1 |
 
-</br>
-<h3>Non-goals:</h3>
-<ul>
-  <li>Prescriptive connection definitions between the components</li>
-  <li>Reference implementation</li>	
-</ul>
+
+### Submit a Proposal
+ Use the following [template](https://github.com/progress/CCS/blob/master/Proposals/CCSProposal_1%200_Template.pdf) and send your proposal to [CCS Submissions](mailto:ccs-submissions@progress.com) 
+
+You can download a word version of this document <a href="https://github.com/progress/CCS/zipball/doc-files">here.</a>
+ 
+###Deliverables
+- High level OERA diagram
+- Set of standards documents for defined OERA components
+- Interdependencies only, no prescriptive external component integration
+- Submit for community review
+- Update OERA on communities
+
+### Non-goals:
+- Prescriptive connection definitions between the components
+- Reference implementation
