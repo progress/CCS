@@ -29,7 +29,7 @@
 
 You can download a word version of this document <a href="https://github.com/progress/CCS/zipball/doc-files">here.</a>
  
-###Deliverables
+### Deliverables
 - High level OERA diagram
 - Set of standards documents for defined OERA components
 - Interdependencies only, no prescriptive external component integration
