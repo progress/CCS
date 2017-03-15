@@ -12,7 +12,7 @@
 
 | Spec Proposal    | Status      | Submitted By | Spec Version |
 | ------------- |-------------| -----|-----|
-| [Architectural Overview](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-Umbrella-1%200.pdf) | [Spec Published](https://github.com/progress/CCS/blob/master/Specs/CCSSpec-ARCH1_0.pdf) | [Shelley B. Chase](@sbschase) | 1.0 |
+| [Architectural Overview](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-Umbrella-1%200.pdf) | [Spec Published](https://github.com/progress/CCS/blob/master/Specs/Architecture/v1_0/CCSSpec-ARCH1_0.pdf) | [Shelley B. Chase](@sbschase) | 1.0 |
 | [Business Entity](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-BusinessEntity-1%200.pdf) | [Spec Published](https://github.com/progress/CCS/blob/master/Specs/BusinessEntity/v1_0/CCSSpec-BE1_0.pdf) | [Mike Fechner](@mikefechner) | 1.0 |
 | [Service Manager](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-ServiceManager-V1%201.pdf) | [Spec Published](https://github.com/progress/CCS/blob/master/Specs/Startup_Session_Service_Managers/v1_0/Service_Manager_1_0.pdf) | [Peter Judge](@PeterJudge-PSC) | 1.0 |
 | [Startup Manager](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-StartupManager-V1%201.pdf) | [Spec Published](https://github.com/progress/CCS/blob/master/Specs/Startup_Session_Service_Managers/v1_0/Startup_Manager_1_0.pdf) | [Dr. Ganesh Iyer](@ganeshn9) | 1.0 |
