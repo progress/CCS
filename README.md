@@ -22,7 +22,7 @@
 | [Cloud Data Service Catalog](https://github.com/progress/CCS/blob/master/Proposals/V1/CDS_Catalog_proposal.pdf) | Proposal submitted| [Peter Judge](@PeterJudge-PSC) | 1.0 |
 | [Authentication - Security Token Service](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS%20Proposal_STS-1%200.pdf) | Proposal Accepted - Waiting to form team | Mike Jacobs | 1.0 |
 | [Property Manager](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-ConfigMgr-1.0.pdf) | Proposal Accepted - Waiting to form team | Mike Jacobs | 1.0 |
-| [Application Meta-data](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-AppMetadata-1.0.pdf) | Proposal Accepted - Team formed | [Shelley Chase](@sbschase)  | 1.0 |
+| [Application Meta-data](https://github.com/progress/CCS/blob/master/Proposals/V1/CCS-Proposal-AppMetadata-1.0.pdf) | Proposal Accepted - Team formed | Eduardo Peligri-Llopart  | 1.0 |
 
 ### Submit a Proposal
  Use the following [template](https://github.com/progress/CCS/blob/master/Proposals/CCSProposal_1%200_Template.pdf) and send your proposal to [CCS Submissions](mailto:ccs-submissions@progress.com) 
