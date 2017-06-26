@@ -6,7 +6,7 @@
 - [Contributor License Agreement](https://community.progress.com/products/directions/common_component/p/contributorlicenseagreement.aspx) 
 - [Release License Agreement](https://community.progress.com/products/directions/common_component/p/releaselicenseagreement.aspx)
 - [Steering Committee](https://github.com/progress/CCS/blob/master/SteeringCommittee.md)
-- [CCS Version 1 Specs](https://github.com/progress/CCS/blob/master/V1Specs.md) 
+
 
 ### Active Specifications
 
