@@ -1,14 +1,166 @@
-   Copyright 2018 Progress Software Corporation
+Progress Software Common Component Specification Project
+Release License Agreement
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
 
-       http://www.apache.org/licenses/LICENSE-2.0
+PROGRESS SOFTWARE CORPORATION IS WILLING TO LICENSE THIS SPECIFICATION TO YOU ONLY UPON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS
+CONTAINED IN THIS AGREEMENT. PLEASE READ THE TERMS AND CONDITIONS OF THIS AGREEMENT CAREFULLY. BY DOWNLOADING THIS SPECIFICATION, YOU
+ACCEPT THE TERMS AND CONDITIONS OF THE AGREEMENT. IF YOU ARE NOT WILLING TO BE BOUND BY IT, SELECT THE "DECLINE" BUTTON AT THE BOTTOM OF
+THIS PAGE.
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+Specification: Common Component Specification 1.0 ("Specification")
+Licensor: Progress Software Corporation ("Licensor")
+Release: [date]
 
+1. DEFINITIONS
+
+1.1. "Independent Implementation" shall mean an implementation of the Specification that, with the exception of the use or inclusion of the
+Sample Code in accordance with the terms and conditions of subparagraph 2.2 below, neither derives from any of Licensor's source code or
+binary code materials nor, except with an appropriate and separate license from Licensor, includes any of Licensor's source code or binary
+code materials.
+
+1.2. "Specification Implementation Conditions" shall mean written information provided by Licensor which includes the technical conditions
+that an Independent Implementation must satisfy in order to be considered an implementation compliant to the Specification, and is made
+available on Licensor's website at the following link (or any successor website location designated by Licensor).
+
+1.3. "Specification Test Suite" shall mean the test suite and accompanying user's guide, if any, provided by Licensor which corresponds to
+the Specification and is made available on Licensor's website at the following link (or any successor website location designated by
+Licensor).
+
+1.4. "Sample Code" shall mean any source code or binary code that Licensor, at its discretion, identifies as "Sample Code" and, at its
+discretion, makes available to you to use in accordance with the terms and conditions of this Agreement.
+
+2. LIMITED LICENSE GRANTS AND LICENSE RESTRICTIONS
+
+2.1. License for the Distribution of Independent Implementations of the Specification.
+
+2.1.1. Licensor grants you a perpetual, non-exclusive, non-transferable, worldwide, fully paid-up, royalty free, limited license (without
+the right to sublicense) under any applicable copyrights or, subject to the provisions of Section 3 below, patent rights it may have
+covering the Specification to create and/or distribute an Independent Implementation of the Specification that: (a) fully implements the
+Specification including all its required interfaces and functionality and (b) satisfies the requirements of Subsections 2.1.1.1 thru
+2.1.1.3 below.
+
+2.1.1.1. If Licensor has made Specification Implementation Conditions available as of the date Licensee completes its Independent
+Implementation, then Licensee must, prior to making any claim that its Independent Implementation complies with the Specification, ensure
+that the Independent Implementation satisfies all of the Specification Implementation Conditions. If Licensor subsequently makes available
+or updates, from time to time, the Specification Implementation Conditions, then Licensee will verify that its Independent Implementation
+satisfies the latest version of the Specification Implementation Conditions within ninety (90) days following Licensor's release thereof.
+
+2.1.1.2. If Licensor has made a Specification Test Suite available as of the date Licensee completes its Independent Implementation, then
+Licensee must, prior to making any claim that its Independent Implementation complies with the Specification, verify that it successfully
+passes the Specification Test Suite. If Licensor subsequently makes available or updates a Specification Test Suite after Licensee
+completes its Independent Implementation, then Licensee will verify that its Independent Implementation passes the latest version of the
+Specification Test Suite within ninety (90) days following Licensor's release thereof.
+
+2.1.1.3. Licensee will be responsible for checking Licensor's website at the following link (or any successor website location designated
+by Licensor) periodically to determine if there have been any new releases or updates to the Specification Implementation Conditions and/or
+Specification Test Suite.
+
+2.1.2. In addition, the foregoing license is expressly conditioned on your not acting outside its scope. No license is granted hereunder
+for any other purpose (including, for example, modifying the Specification, Specification Implementation Conditions and/or the
+Specification Test Suite, other than to the extent of your fair use rights, or distributing the Specification, Specification Implementation
+Conditions and/or Specification Test Suite to third parties).
+
+2.1.3. You need not include limitations (a) and (b) from subparagraph 2.1.1 above or any other particular "pass through" requirements in
+any license you grant concerning the use of your Independent Implementation or products derived from it. However, except with respect to
+Independent Implementations (and products derived from them) that satisfy limitations (a) and (b) from subparagraph 2.1.1, you may neither:
+(a) grant or otherwise pass through to your licensees any licenses under Licensor's applicable intellectual property rights; nor (b) make
+any claims, or authorize your licensees to make any claims, concerning the Independent Implementation's compliance with the Specification
+in question.
+
+2.2. License for Sample Code. Licensor grants you a perpetual, non-exclusive, non-transferable, worldwide, fully paid-up, royalty free,
+irrevocable license under any applicable intellectual property rights it may have covering the Sample Code to use, reproduce, modify,
+display, perform, sublicense and distribute the Sample Code, with or without modification, and on a standalone basis or in combination with
+any other items, including, without limitation, your Independent Implementation, and to sublicense such rights to others at multiple tiers
+of distribution. Licensor and/or its licensors retain ownership of all right, title and interest in the Sample Code, and all intellectual
+property rights therein. All rights in the Sample Code not expressly granted to you in this Agreement are reserved for Licensor. You will
+retain all right, title and interest in any modifications you make to the Sample Code ("Sample Code Modifications"), and all intellectual
+property rights therein. You grant Licensor a perpetual, non-exclusive, non-transferable, worldwide, fully paid-up, royalty free,
+irrevocable license under any applicable intellectual property rights you may have covering the Sample Code Modifications to use,
+reproduce, modify, display, perform, sublicense and distribute the Sample Code Modifications, with or without modification, and on a
+standalone basis or in combination with any other items and to sublicense such rights to others at multiple tiers of distribution.
+
+2.3. No Right to use Licensor's Marks or Names. Also, no right, title, or interest in or to any trademarks, service marks, or trade names
+of Licensor or Licensor's licensors is granted hereunder.
+
+
+3. Reciprocity Concerning Patent Licenses.
+
+3.1. With respect to any patent claims covered by the license granted by Licensor to you under subparagraph 2.1 above that would be
+infringed by all technically feasible implementations of the Specification, such license is conditioned upon your offering on fair,
+reasonable and non-discriminatory terms, to any party seeking it from you, a perpetual, non-exclusive, non-transferable, worldwide license
+under your patent rights which are or would be infringed by all technically feasible implementations of the Specification to develop,
+distribute and use an Independent Implementation.
+
+3.2. With respect to any patent claims owned by Licensor and covered by the license granted under subparagraph 2.1, whether or not their
+infringement can be avoided in a technically feasible manner when implementing the Specification, such license shall terminate with respect
+to such claims if you initiate a claim against Licensor that it has induced any other entity to infringe your patent rights.
+
+3.3. Also with respect to any patent claims owned by Licensor and covered by the license granted under subparagraph 2.1 above, where the
+infringement of such claims can be avoided in a technically feasible manner when implementing the Specification, such license, with respect
+to such claims, shall terminate if you initiate a claim against Licensor that its making, having made, using, offering to sell, selling or
+importing an Independent Implementation infringes your patent rights.
+
+
+
+4. DISCLAIMER OF WARRANTIES
+
+THE SPECIFICATION, SPECIFICATION TEST SUITE AND SAMPLE CODE ARE PROVIDED "AS IS". LICENSOR MAKES NO REPRESENTATIONS OR WARRANTIES, EITHER
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT
+(INCLUDING AS A CONSEQUENCE OF ANY PRACTICE OR IMPLEMENTATION OF THE SPECIFICATION AND/OR ANY USE OF THE SPECIFICATION TEST SUITE AND/OR
+ANY USE, MODIFICATION OR DISTRIBUTION OF THE SAMPLE CODE), OR THAT THE CONTENTS OF THE SPECIFICATION, SPECIFICATION TEST SUITE AND/OR
+SAMPLE CODE ARE SUITABLE FOR ANY PURPOSE. This document does not represent any commitment to release or implement any portion of the
+Specification in any product. In addition, the Specification, Specification Test Suite and/or Sample Code could include technical
+inaccuracies or typographical errors.
+
+
+
+5. LIMITATION OF LIABILITY AND INDEMNIFICATION
+
+5.1. TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT WILL LICENSOR OR ITS LICENSORS BE LIABLE FOR ANY DAMAGES, INCLUDING WITHOUT
+LIMITATION, LOST REVENUE, PROFITS OR DATA, OR FOR SPECIAL, INDIRECT, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED AND
+REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF OR RELATED IN ANY WAY TO YOUR HAVING, IMPELEMENTING OR OTHERWISE USING THE
+SPECIFICATION AND/OR HAVING OR USING THE SPECIFICATION IMPLEMENTATION CONDITIONS AND/OR SPECIFICATION TEST SUITE AND/OR HAVING, MODIFYING,
+SUBLICENSING, DISTRIBUTING OR USING THE SAMPLE CODE, EVEN IF LICENSOR AND/OR ITS LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.
+
+5.2. You will indemnify, hold harmless, and defend Licensor and its licensors from any claims arising or resulting from: (i) your use of
+the Specification, Specification Implementation Conditions and/or Specification Test Suite; (ii) the use or distribution of your
+Independent Implementation; (iii) your use, modification or distribution of the Sample Code and/or (iv) any claims that later versions or
+releases of any Specification furnished to you are incompatible with the Specification provided to you under this license.
+
+
+
+6. RESTRICTED RIGHTS LEGEND
+U.S. Government: If this Specification, the Specification Implementation Conditions, the Specification Test Suite and/or the Sample Code
+is/are being acquired by or on behalf of the U.S. Government or by a U.S. Government prime contractor or subcontractor (at any tier), then
+the Government's rights in the Specification, Specification Implementation Conditions, Specification Test Suite and/or Sample Code and
+accompanying documentation shall be only as set forth in this license; this is in accordance with 48 C.F.R. 227.7201 through 227.7202-4
+(for Department of Defense (DoD) acquisitions) and with 48 C.F.R. 2.101 and 12.212 (for non-DoD acquisitions).
+
+
+
+7. REPORT
+If you provide Licensor with any comments or suggestions concerning the Specification ("Feedback"), you hereby: (i) agree that such
+Feedback is provided on a non-proprietary and non-confidential basis, and (ii) grant Licensor a perpetual, non-exclusive, worldwide, fully
+paid-up, irrevocable license, with the right to sublicense through multiple levels of sublicensees, to incorporate, disclose, and use
+without limitation the Feedback for any purpose.
+
+
+
+8. GENERAL TERMS
+
+8.1. Any action related to this Agreement will be governed by the laws of the Commonwealth of Massachusetts and controlling U.S. federal
+law. The U.N. Convention for the International Sale of Goods and the choice of law rules of any jurisdiction will not apply.
+
+8.2. The Specification, Specification Implementation Conditions, Specification Test Suite and Sample Code are subject to U.S. export
+control laws and may be subject to export or import regulations in other countries. Licensee agrees to comply strictly with all such laws
+and regulations and acknowledges that it has the responsibility to obtain such licenses to export, re-export or import as may be required
+after delivery to Licensee.
+
+8.3. This Agreement is the parties' entire agreement relating to its subject matter. It supersedes all prior or contemporaneous oral or
+written communications, proposals, conditions, representations and warranties and prevails over any conflicting or additional terms of any
+quote, order, acknowledgment, or other communication between the parties relating to its subject matter during the term of this Agreement.
+No modification to this Agreement will be binding, unless in writing and signed by an authorized representative of each party.
+
+
+Rev 7-July-2015
